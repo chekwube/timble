@@ -1,5 +1,5 @@
 # About timble
-A customer relationship management applicatiion
+A customer relationship management api
 # Technologies used
 * Node
 * Express
